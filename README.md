@@ -12,6 +12,7 @@ January 11, 2022.  ATM update log
 1. In the absence of content, it will push recommendations to help users follow more users and expand their social network;                                    
 2. Moment support for uploading video, enriching the community content of Monkey and making it even more interesting;                               
 3. Moment content is added to the draft. They can be saved instantly and will not lost. 
+
 **ATM official website.   **                  
 1. Adding network view optimization, so that users can understand the data more intuitively and clearly;
 2. Adding TokenPR income management, so that users can control their own income and manage assets as soon as possible;                                         
