@@ -16,4 +16,4 @@ Monkey web
 ATM official website               
 1. Adding network view optimization, so that users can understand the data more intuitively and clearly;
 2. Adding TokenPR income management, so that users can control their own income and manage assets as soon as possible;                                         
-3. Adding TokenPR application management function.  Users who meet the requirements can apply to enable the management function, participate in TokenPR management, and be the master of the community.
+3. Adding TokenPR application management function. Users can apply to enable the management function, participate in TokenPR management, and be the master of the community.
